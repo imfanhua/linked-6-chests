@@ -1,0 +1,11 @@
+{
+  "name": "linked-6-chests",
+  "version": "1.0.0",
+  "title": "Linked 6 Chests",
+  "author": "FanHua",
+  "description": "More linked chests!",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.50"
+  ]
+}
