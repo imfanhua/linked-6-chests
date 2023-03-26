@@ -21,6 +21,7 @@ local function new_linked_chest(name)
 	entity.circuit_wire_connection_point = nil
 	entity.circuit_connector_sprites = nil
 	entity.circuit_wire_max_distance = nil
+	entity.inventory_size = 5000
 	entity.icon = icon
 	entity.picture = {
 		layers = {
