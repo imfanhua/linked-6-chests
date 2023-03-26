@@ -11,9 +11,7 @@ This mod allows you to craft and use 6 different linked chests (5000 slots) righ
 # Locales
 English, Simplified Chinese.
 
--------
--------
--------
+---
 
 # 6种关联箱
 本模组可以让你在开局就可以合成并使用6种不同的关联箱 (5000 格)。
